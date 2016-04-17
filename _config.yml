@@ -1,6 +1,6 @@
 name: QCN Barras
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.00181
 typography_spectrum: 0.02106
 cta:
   domain: null
