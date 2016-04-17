@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: '...once upon a time in Central Portugal, i decided to be a REAL WINEMAKER...that only works with the help of the phenomenal help of the people here from Tábua! Great hard job and they were all of them very friendly and teached me a lot of things i never gave a tought, but wich are absolute important in this region, so a big BIG thanks to all the peopla who were there!'
-datePublished: '2016-04-17T21:49:24.322Z'
-dateModified: '2016-04-17T21:48:56.566Z'
+description: '..that only works with the help of the phenomenal help of the people here from Tábua! Great hard job and they were all of them very friendly and teached me a lot of things i never gave a tought, but wich are absolute important in this region, so a big BIG thanks to all the peopla who were there!'
+datePublished: '2016-04-17T21:57:36.425Z'
+dateModified: '2016-04-17T21:57:10.447Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-once-upon-a-time-in-central-portugal-i-decided-to-be-a-r.md
@@ -22,7 +22,10 @@ url: once-upon-a-time-in-central-portugal-i-decided-to-be-a-r/index.html
 _type: Article
 
 ---
-...once upon a time in Central Portugal, i decided to be a REAL WINEMAKER...that only works with the help of the phenomenal help of the people here from Tábua! Great hard job and they were all of them very friendly and teached me a lot of things i never gave a tought, but wich are absolute important in this region, so a big BIG thanks to all the peopla who were there!
+...once upon a time in Central Portugal, i decided to be a REAL WINEMAKER...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f28520f-73ee-4b53-9afc-e916f5ee645f.jpg)
+
+..that only works with the help of the phenomenal help of the people here from Tábua! Great hard job and they were all of them very friendly and teached me a lot of things i never gave a tought, but wich are absolute important in this region, so a big BIG thanks to all the peopla who were there!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29ef28bb-fca9-4de5-a238-90c20f4d32aa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b87113d0-b1b9-44ed-b944-3da700781b64.jpg)
 
