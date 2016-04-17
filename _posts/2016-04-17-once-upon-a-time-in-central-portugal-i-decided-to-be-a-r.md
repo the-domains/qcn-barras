@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: '...once upon a time in Central Portugal, i decided to be a REAL WINEMAKER...that only works with the help of the phenomenal help of the people here from Tábua! Great hard job and they were all of them very friendly and teached me a lot of things i never gave a tought, but wich are absolute important in this region, so a big BIG thanks to all the peopla who were there!'
-datePublished: '2016-04-17T21:48:48.702Z'
-dateModified: '2016-04-17T21:48:34.305Z'
+datePublished: '2016-04-17T21:49:24.322Z'
+dateModified: '2016-04-17T21:48:56.566Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-17-once-upon-a-time-in-central-portugal-i-decided-to-be-a-r.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-once-upon-a-time-in-central-portugal-i-decided-to-be-a-r.md
-published: true
 url: once-upon-a-time-in-central-portugal-i-decided-to-be-a-r/index.html
 _type: Article
 
