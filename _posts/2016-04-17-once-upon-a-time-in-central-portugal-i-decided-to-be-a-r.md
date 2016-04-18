@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: '..that only works with the help of the phenomenal help of the people here from Tábua! Great hard job and they were all of them very friendly and teached me a lot of things i never gave a tought, but wich are absolute important in this region, so a big BIG thanks to all the peopla who were there!'
-datePublished: '2016-04-17T21:58:36.259Z'
-dateModified: '2016-04-17T21:57:42.687Z'
+description: "... from the first harvest we had about 400 Kg of grapes...makes about 250 Liters of RED Wine, in main Touriga Nacional - a typical portuguese Grape in the protected area of DAO...\_"
+datePublished: '2016-04-18T07:39:05.363Z'
+dateModified: '2016-04-17T21:59:36.837Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-once-upon-a-time-in-central-portugal-i-decided-to-be-a-r.md
