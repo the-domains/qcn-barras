@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '... from the first harvest we had about 400 Kg of grapes...makes about 250 Liters of RED Wine, in main Touriga Nacional - a typical portuguese Grape in the protected area of DAO... '
-datePublished: '2016-04-18T16:37:25.246Z'
-dateModified: '2016-04-18T07:47:21.621Z'
+datePublished: '2016-04-18T16:43:09.697Z'
+dateModified: '2016-04-18T16:38:04.877Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-once-upon-a-time-in-central-portugal-i-decided-to-be-a-r.md
@@ -42,6 +42,8 @@ _type: Article
 ... with a few (really only a few) grapes left for the birds... we say goodby for this year 2015\.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfcf9e5d-14aa-4a3d-82be-78983b6b01af.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab5d5ca5-a2da-47fd-b3af-462c8fad9c4f.jpg)
+
+...and in February the REAL work starts in the Vineyards ..
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52f4a24c-e609-4fd4-a35c-b73d0bec7281.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a109b2f2-7086-40ea-b0f6-7d815c2ad864.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e16177a-b6d0-46e0-b25d-e1ad8b2792bc.jpg)
@@ -51,5 +53,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cac9a20-cc52-4489-b895-88069b9ca461.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0563e0a6-53a9-40d0-a8d2-c9c266a97a77.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3beb45cf-6f86-406f-a2a7-7a5365a70678.jpg)
-
-...and in February the REAL work starts in the Vineyards ..
