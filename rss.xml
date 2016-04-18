@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[QCN Barras]]></title>
-        <description><![CDATA[QCN Barras]]></description>
+        <title><![CDATA[Quinta Casal Novo Wines ]]></title>
+        <description><![CDATA[Quinta Casal Novo Wines ]]></description>
         <link>https://thegrid.ai/qcn-barras/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 21:58:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 07:39:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/qcn-barras/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29ef28bb-fca9-4de5-a238-90c20f4d32aa.jpg">]]></description>
             <link>https://thegrid.ai/qcn-barras/once-upon-a-time-in-central-portugal-i-decided-to-be-a-r/index.html</link>
             <guid isPermaLink="false">6ec075c4-7be0-4c73-802c-bca3eeb406c4</guid>
-            <pubDate>Sun, 17 Apr 2016 21:58:36 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 07:39:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
