@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '... from the first harvest we had about 400 Kg of grapes...makes about 250 Liters of RED Wine, in main Touriga Nacional - a typical portuguese Grape in the protected area of DAO... '
-datePublished: '2016-04-19T08:41:29.501Z'
-dateModified: '2016-04-19T08:39:53.227Z'
+datePublished: '2016-04-19T08:42:16.568Z'
+dateModified: '2016-04-19T08:41:38.764Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-once-upon-a-time-in-central-portugal-i-decided-to-be-a-r.md
