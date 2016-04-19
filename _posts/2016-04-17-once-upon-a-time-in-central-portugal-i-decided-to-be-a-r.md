@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '... from the first harvest we had about 400 Kg of grapes...makes about 250 Liters of RED Wine, in main Touriga Nacional - a typical portuguese Grape in the protected area of DAO... '
-datePublished: '2016-04-18T16:43:09.697Z'
-dateModified: '2016-04-18T16:38:04.877Z'
+datePublished: '2016-04-19T08:36:33.025Z'
+dateModified: '2016-04-18T16:43:14.528Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-once-upon-a-time-in-central-portugal-i-decided-to-be-a-r.md
@@ -48,7 +48,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a109b2f2-7086-40ea-b0f6-7d815c2ad864.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e16177a-b6d0-46e0-b25d-e1ad8b2792bc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78ff1c95-9aec-4f43-b997-52b3133825db.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da1009c4-3592-49b9-b000-e96f1f351a57.jpg)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b36394ef-0a9a-4fe6-9863-da7974a55bd5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cac9a20-cc52-4489-b895-88069b9ca461.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0563e0a6-53a9-40d0-a8d2-c9c266a97a77.jpg)
